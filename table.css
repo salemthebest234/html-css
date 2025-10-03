@@ -1,0 +1,11 @@
+table{
+    background-color: #00ffff;
+}
+th{
+    background-color: #000000;
+    color: #7fffd4;
+}
+td{
+    background-color: #ff8c00;
+    color: #7fff00;
+}

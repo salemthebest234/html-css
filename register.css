@@ -1,0 +1,17 @@
+form{
+    background-color: navy;
+    padding: 20px;
+    margin: 20px;
+    width: 50%;
+    color: #ffffff;
+}
+input{
+    border: solid #000000b4;
+    width: fit-content;
+    height: 30px;
+    margin: 10px;
+    background-color: #eccfb1;
+    
+    color: #ffffff
+    padding 10px;
+}
