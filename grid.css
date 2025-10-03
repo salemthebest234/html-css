@@ -1,0 +1,13 @@
+.grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+.box{
+    background-color: #00ced1;
+    padding: 40px;
+    text-align: center;
+}
+.box:hover{
+    background-color: #00ff7f
+}
